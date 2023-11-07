@@ -19,22 +19,31 @@ Live as if you were to die tomorrow. Learn as if you were to live forever.
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Python"
       />
-      <br /><strong>HTML5</strong>
+      <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="OracleSQL"
       />
-      <br /><strong>CSS3</strong>
+      <br /><strong>OracleSQL</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -61,15 +70,6 @@ Live as if you were to die tomorrow. Learn as if you were to live forever.
         alt="Redux"
       />
       <br /><strong>Redux</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
     </td>
   </tr>
   <tr>
@@ -167,21 +167,21 @@ Live as if you were to die tomorrow. Learn as if you were to live forever.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="HTML"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>HTML5</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
         height="48"
-        alt="OracleSQL"
+        alt="CSS3"
       />
-      <br /><strong>OracleSQL</strong>
+      <br /><strong>CSS3</strong>
     </td>
 
   </tr>
